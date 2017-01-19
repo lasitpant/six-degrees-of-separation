@@ -1,6 +1,5 @@
 #  SIXTOP
-#  Created by Mark Keane on 27/09/2016.
-#  Copyright (c) 2016 Mark Keane. All rights reserved.
+
 
 require 'nokogiri'
 require 'open-uri'
